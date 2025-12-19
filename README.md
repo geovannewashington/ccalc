@@ -38,7 +38,7 @@ make
 sudo make install   # optional: installs the binary
 ```
 
-Or download **precompiled binaries** from the [Release page](link/to/release/page)
+Or download **precompiled binaries** from the [Release page](https://github.com/geovannewashington/ccalc/releases)
 
 > ⚠️ Currently, the project has only been tested on Linux.
 
