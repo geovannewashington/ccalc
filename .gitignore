@@ -2,6 +2,9 @@
 build/*.o
 bin/ccalc
 
+# Compressed
+*.tar.gz
+
 # Editor / OS noise
 *.swp
 *.swo
