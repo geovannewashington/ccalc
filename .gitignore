@@ -1,0 +1,12 @@
+# Build artifacts
+build/*.o
+bin/ccalc
+
+# Editor / OS noise
+*.swp
+*.swo
+*.tmp
+.DS_Store
+
+# Debug
+vgcore.*
